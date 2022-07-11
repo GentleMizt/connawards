@@ -4,9 +4,10 @@
     text-decoration: none;
     box-sizing: border-box;
     position: relative;
+    font-family: '';
 }
 header{
-    background-color: black;
+    background-color: #000000;
 }
 .nav-bar{
     display: flex;
@@ -16,8 +17,8 @@ header{
     flex-direction: column;
 }
 .logo-div img{
-    border: 1px solid blue;
+    border: 1px solid #0000FF;
 }
 .logo-text{
-    border: 1px solid red;
+    border: 1px solid #FF0528;
 }
